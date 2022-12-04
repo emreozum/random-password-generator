@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+}
+#passwords{
+    display: flex;
+    justify-content: space-around
+}
